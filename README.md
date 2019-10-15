@@ -1,2 +1,2 @@
 # hello-world
-first repository by uma srikanth chintalapall
+first repository by uma srikanth chintalapalli
